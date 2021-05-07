@@ -4,6 +4,8 @@ let inputDuracao = document.getElementById("horas");
 
 let resultado = document.getElementById("resultado")
 
+
+
 function calcular(){
     console.log("calculando...");
 
